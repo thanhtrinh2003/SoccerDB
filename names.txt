@@ -1,0 +1,4 @@
+Tong,Jhin,10,Forward
+Carlos,Nunez,3,Forward
+Oscar,Jankovich,22,Midfield
+Tim,Nguyen,5,Defense
